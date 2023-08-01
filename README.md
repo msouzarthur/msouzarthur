@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on VerdeCard<br>🌱 I’m currently learning Python and Data Science<br><br>
+🔭 I’m currently working on VerdeCard<br>🌱 Working as Data Analyst <br><br>
 
 
 ## 🌐 Socials:
